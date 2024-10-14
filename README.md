@@ -14,10 +14,10 @@
       > Armazenar as fichas técnicas de plantação
       > Armazenar as configurações feitas no dispositivo
     2. Minha Colheita
-       > Criar uma pasta desse tipo para cada nova colheita
-       > Pasta acessável pelo usuário
-       > Nome da colheita e a ficha utilizada
-       > Dados sobre o periodo de cultivo (horário de rega, ciclo, dia atual)
+      > Criar uma pasta desse tipo para cada nova colheita
+      > Pasta acessável pelo usuário
+      > Nome da colheita e a ficha utilizada
+      > Dados sobre o periodo de cultivo (horário de rega, ciclo, dia atual)
   - [ ] Acessar fichas técnicas para continuar o cultivo
   - [ ] \(Opcional) Vincular ao sistema supervisório para exibir dados e gerar gráficos sobre o cultivo
 
@@ -28,13 +28,13 @@
   - [ ] Configuração de Cultivo
   - [ ] Iniciar/Cancelar Cultivo
     1. Criar ficha
-      - Nome Planta
-      - Ciclo (15 d a 35d)
-      - Periodos Rega (10~20 min on, 20~50 min off)
-      - Limite pH
-      - Limite Condutividade
+        - Nome Planta
+        - Ciclo (15 d a 35d)
+        - Periodos Rega (10~20 min on, 20~50 min off)
+        - Limite pH
+        - Limite Condutividade
     2. Usar ficha
-      - Selecionar fichas criadas  
+        - Selecionar fichas criadas  
   - [ ] Meu Cultivo
     - Medição dos Sensores
     - Status do Ciclo

@@ -30,7 +30,7 @@
     1. Criar ficha
         - Nome Planta
         - Ciclo (15 d a 35d)
-        - Periodos Rega (10~20 min on, 20~50 min off)
+        - Periodos Rega (10/20 min on, 20/50 min off)
         - Limite pH
         - Limite Condutividade
     2. Usar ficha
